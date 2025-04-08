@@ -13,7 +13,7 @@ main {
 }
 
 .heading {
-  color: white;
+  color: rgb(72, 72, 72); /* Z Pana zezwolenia zmieniłem z białego na szary dla lepszej czytelności */
   margin: 0;
   font-size: 2.2rem;
 }
